@@ -219,3 +219,50 @@ a:hover {
     background-color: #1d2124;
     border-color: #171a1d;
 }
+button.btn.btn-primary, button.btn.btn-primary:hover, button.btn.btn-primary:focus {
+    background: #136af8;
+    padding: 10 40px;
+}
+
+
+.search_bt{
+ border-top-right-radius: 30px !important; 
+ border-bottom-right-radius: 30px !important; 
+ color: #fff; 
+ padding-bottom: 10px; 
+ padding-top: 10px;
+ background-color: #000;
+ padding: 15px 45px;
+ border: 0px;
+
+}
+
+
+.form-control:not(:last-child) {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    padding-left: 25px;
+}
+
+.choose_section{
+    width: 100%;
+    float: left;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.choose_text{
+    width: 100%;
+    float: left;
+    text-align: center;
+    color: #030907;
+        font-weight: 600;
+
+}
+.lorem_text{
+    width: 100%;
+    float: left;
+    text-align: center;;
+}
+
+
