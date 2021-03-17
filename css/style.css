@@ -313,4 +313,55 @@ button.btn.btn-primary, button.btn.btn-primary:hover, button.btn.btn-primary:foc
     text-align: center;
     margin-top: 20px;   
     color: #000;
+}
 
+.making_tetx{
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;   
+    color: #ffffff;
+    margin-left: 0;
+
+}
+
+.making{
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;   
+    color: #000;
+    margin-left: 0;
+
+}
+
+.btn_main{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.read_bt{
+    height: 50px;
+    width: 100%;
+    float: left;
+    border-radius: 11px;
+    border: 0px;
+    color: #ffffff;
+    background-color: #000;
+    margin-top: 30px;
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+
+.read_bt a:hover{ color: #ffffff;}
+
+.about_main{ 
+    width: 100%;
+    float: left;
+    background-color: #2ba879;
+    height: auto; 
+    margin-top: 70px; 
+    margin-bottom: 20px;
+    position: relative;
+ }
+ 
