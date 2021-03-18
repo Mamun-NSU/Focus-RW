@@ -616,3 +616,19 @@ button.main_bt a:hover {
     padding: 15px 45px;
     border: 0px;
 }
+.margin-top-30 { padding-top: 25px;  width: 90%;}
+
+.icon_main{ width: 100%; float: left; text-align: center;}
+.menu_text {width: 20%;
+    margin: 0 auto;
+    text-align: center;}
+.menu_text ul { margin: 0px; padding: 0px;} 
+.menu_text li { float: left; padding-left: 6px; padding-right: 25px; }
+.copyright_main{ width: 100%; float: left; background-color: #17ad74; 
+    height: auto; padding-bottom: 5px; padding-top: 5px; }
+.copy_text{ width: 100%; float: left; text-align: center; color: #ffffff;   
+  margin-left: 0px; margin-right: 0px; }
+.copy_text a:hover{ color: #000; }
+.footer_menu{ padding-right: 10px; }
+
+}
