@@ -587,3 +587,32 @@ button.main_bt a:hover {
     float: left;
     margin-top: 15px;
 }
+.menu ul{margin: 0px; padding: 0px;}
+
+.menu ul li{ color: #fcfcfc; }
+.menu ul li a:hover{ color: #fcfcfc; }
+.useful_text{ 
+    width: 100%; 
+    float: left; 
+    color: #fcfcfc; 
+    font-size: 24px; 
+    font-weight: bold; 
+    margin-top: 15px; }
+.menu.multi_column_menu li {
+    float: left;
+    width: 33.33%;
+}
+
+.footer-logo{ margin-top: 70px;}
+
+
+.subsrcibe_bt {
+    border-top-right-radius: 30px !important;
+    border-bottom-right-radius: 30px !important;
+    color: #fff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: #2ba879;
+    padding: 15px 45px;
+    border: 0px;
+}
