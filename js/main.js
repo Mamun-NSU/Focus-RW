@@ -1,4 +1,4 @@
-
+// This is js file
 $(document).ready(function () {
         $(".fancybox").fancybox({
                 openEffect: "none",
